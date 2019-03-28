@@ -1,7 +1,8 @@
 # coursera-assignment
 Assignments for Coursera course: HTML, CSS, and Javascript for Web Developers
   
-#  Review criterialess 
+#  Module 2 Coding Assignment
+##  Review criteria 
 - Does the implementation use a CSS or Javascript framework (not allowed)?  
 - Does the implementation use inline CSS (not allowed) or reference a CSS file instead?  
 - Does the implemented layout conform to the provided mockup illustrations for desktop, tablet, and mobile views?  
