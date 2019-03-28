@@ -2,6 +2,8 @@
 Assignments for Coursera course: HTML, CSS, and Javascript for Web Developers
   
 #  Module 2 Coding Assignment
+## Solution:
+https://iris-the-fox.github.io/coursera-assignment/module2-solution/
 ##  Review criteria 
 - Does the implementation use a CSS or Javascript framework (not allowed)?  
 - Does the implementation use inline CSS (not allowed) or reference a CSS file instead?  
