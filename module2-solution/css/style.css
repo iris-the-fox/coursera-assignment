@@ -44,7 +44,7 @@ p {
 
 @media (min-width: 992px) {
 	section {
-		width: 33%;
+		width: 33.33%;
 		padding-left: 10px;
 		padding-right: 10px;
 	}
