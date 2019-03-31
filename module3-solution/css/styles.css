@@ -77,15 +77,19 @@ h1.text-center {
   margin-bottom: 10px;
 }
 
-#really-tall {
-  min-height: 1000px;
-  background-color: #f5fbff;
-  color: black;
-}
 
 div#main-content {
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.menu-cell {
+  min-height: 700px;
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: #f5fbff;
+  color: black;
+
 }
 /* END HOME PAGE */
 
