@@ -83,6 +83,10 @@ h1.text-center {
   color: black;
 }
 
+div#main-content {
+  padding-left: 40px;
+  padding-right: 40px;
+}
 /* END HOME PAGE */
 
 
