@@ -20,7 +20,7 @@ https://iris-the-fox.github.io/coursera-assignment/module2-solution/
 https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md
 ## Solution:
 https://iris-the-fox.github.io/coursera-assignment/module3-solution/
-Review criteria
+## Review criteria
 - Does the implementation use inline CSS styles at all (not allowed) or does it reference an external CSS file?
 - Is the default navbar implemented such that it scrolls away with the page, i.e., it's not statically attached to the top of bottom of the screen?
 - Does the brand name "Food, LLC" properly aligned to the left of the navbar and does it use navbar-brand class?
