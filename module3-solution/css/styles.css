@@ -5,10 +5,10 @@ body {
 	font-family: 'Oxygen', sans-serif;
 }
 
-h1{
+h1 {
     margin: 0;
     text-align: center;
-   text-transform: capitalize;
+    text-transform: capitalize;
 }
 /** HEADER **/
 
@@ -38,7 +38,7 @@ h1{
 
 .navbar-toggle {
   background-color: #0c9;
-      margin-top: 10px;
+  margin-top: 10px;
 }
 
 #nav-list {
@@ -125,33 +125,10 @@ div#main-content {
 /********** Extra small devices only **********/
 @media (max-width: 767px) {
   /* Header */
-  .navbar-brand {
-    height: 80px;
-  }
-  .navbar-brand h1 { /* Restaurant name */
-    font-size: 5vw; /* 1vw = 1% of viewport width */
-  }
 
   #collapsable-nav a { /* Collapsed nav menu text */
     font-size: 1.2em;
   }
-  #collapsable-nav a span { /* Collapsed nav menu glyph */
-    font-size: 1em;
-    margin-right: 5px;
-  }
   /* End Header */
-
-
- 
-}
-
-/********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
-@media (max-width: 479px) {
-  /* Header */
-  .navbar-brand h1 { /* Restaurant name */
-    font-size: 6vw;
-  }
-  /* End Header */
-  
 
 }
