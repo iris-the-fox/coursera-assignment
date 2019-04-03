@@ -29,3 +29,11 @@ https://iris-the-fox.github.io/coursera-assignment/module3-solution/
 - Is the label of the each menu item (e.g., "Chicken") centered using a Bootstrap class?
 - Is the page heading, "Our Menu", centered on the screen using the Bootstrap class?
 - Is the single cell section (or multiple sections as per optional part of the assignment) using the Bootstrap Grid System and is the section tall enough to force the viewer to scroll if they wanted to get to the bottom of the page.
+
+# Module 4 Coding Assignment
+## Assignment:
+https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md
+## Solution:
+https://iris-the-fox.github.io/coursera-assignment/module4-solution/
+## Review criteria:
+This is a pass or fail assignment. If the required functionality works, you pass. If it doesn't, it's marked as failed. (I.e., try again).
