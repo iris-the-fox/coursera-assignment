@@ -37,3 +37,18 @@ https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/ass
 https://iris-the-fox.github.io/coursera-assignment/module4-solution/
 ## Review criteria:
 This is a pass or fail assignment. If the required functionality works, you pass. If it doesn't, it's marked as failed. (I.e., try again).
+
+
+# Module 5 Coding Assignment
+## Assignment:
+https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md
+## Solution:
+https://iris-the-fox.github.io/coursera-assignment/module5-solution/index.html
+## Review criteria
+ - Load the home page in the browser.
+ - Click on the Specials tile. A single page category with a list of menu items for some category should appear.
+ - Click on the restaurant logo to go back to the home page.
+ - Click on the Specials tile again. Most likely, a different single page category page will be shown. 
+
+Repeat this several times to make sure that most of the time you see a different single category page. 
+
